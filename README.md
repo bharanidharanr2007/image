@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Interactive Image Gallery
 # Date: 26-11-2024
 # AIM
 To develop a website to display details about the places around my house.
@@ -199,6 +199,9 @@ Execute the programs and publish them.
 # OUTPUT
 
 ![alt text](image.png)
+
+![image](https://github.com/user-attachments/assets/82d8807a-a983-47aa-9668-61540526f901)
+
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
